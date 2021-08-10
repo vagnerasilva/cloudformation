@@ -1,5 +1,6 @@
 # cloudformation
 
+https://www.youtube.com/playlist?list=PLt8D2V5latlHxsbYhKdDvi-zncorZn4Ey
 
 
 https://stackoverflow.com/questions/59375896/how-to-assign-users-in-sagemaker-studio
