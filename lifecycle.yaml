@@ -1,0 +1,21 @@
+
+Resources:
+### criando bucket 
+  Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: Private
+      BucketName: dbcloud-bucket
+      LifecycleConfiguration:
+        Rules:
+          - Id: Glacier
+            Prefix: relatorio
+            Status: Enabled
+            ExpirationInDays: 365
+            Transitions: 
+              - TransitionInDays: 1
+                StorageClass: GLACIER
+
+
+
+

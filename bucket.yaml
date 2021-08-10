@@ -1,0 +1,10 @@
+
+Resources:
+### criando bucket 
+  Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: Private
+      BucketName: dbcloud-bucket
+
+
