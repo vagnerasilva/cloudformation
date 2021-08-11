@@ -27,3 +27,6 @@ https://aws.amazon.com/pt/about-aws/whats-new/2021/02/now-launch-amazon-sagemake
 
 https://towardsdatascience.com/run-setup-scripts-automatically-on-sagemaker-studio-15222b9d2f8c
 
+## Launch Amazon SageMaker Studio
+
+https://sagemaker-immersionday.workshop.aws/en/prerequisites/option2.html
