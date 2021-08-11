@@ -22,3 +22,6 @@ https://github.com/aws-samples/amazon-sagemaker-studio-vpc-blog
 
 
 https://aws.amazon.com/pt/about-aws/whats-new/2021/02/now-launch-amazon-sagemaker-studio-aws-cloudformation/
+
+https://towardsdatascience.com/run-setup-scripts-automatically-on-sagemaker-studio-15222b9d2f8c
+
