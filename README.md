@@ -30,3 +30,6 @@ https://towardsdatascience.com/run-setup-scripts-automatically-on-sagemaker-stud
 ## Launch Amazon SageMaker Studio
 
 https://sagemaker-immersionday.workshop.aws/en/prerequisites/option2.html
+
+## Automate MLOps with SageMaker Projects
+https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects.html
