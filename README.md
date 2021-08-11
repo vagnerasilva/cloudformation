@@ -37,3 +37,7 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects.html
 
 ## Studio Domain
 https://github.com/aws-samples/cloudformation-studio-domain/blob/main/sagemaker_studio_template.yaml
+
+
+## doc sagemaker
+https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-run-and-manage-switch-instance-type.html
