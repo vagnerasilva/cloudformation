@@ -33,3 +33,7 @@ https://sagemaker-immersionday.workshop.aws/en/prerequisites/option2.html
 
 ## Automate MLOps with SageMaker Projects
 https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects.html
+
+
+## Studio Domain
+https://github.com/aws-samples/cloudformation-studio-domain/blob/main/sagemaker_studio_template.yaml
