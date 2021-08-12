@@ -41,3 +41,7 @@ https://github.com/aws-samples/cloudformation-studio-domain/blob/main/sagemaker_
 
 ## doc sagemaker
 https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-run-and-manage-switch-instance-type.html
+
+
+https://github.com/aws-samples/amazon-sagemaker-studio-audit
+
