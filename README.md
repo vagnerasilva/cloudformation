@@ -48,3 +48,7 @@ https://github.com/aws-samples/amazon-sagemaker-studio-audit
 ## sagemaker catalog
 
 https://github.com/aws-samples/aws-service-catalog-sagemaker-studio-domain
+
+## dockerfile sagemaker
+
+https://github.com/flowty/flowty-sagemaker-studio
