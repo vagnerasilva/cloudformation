@@ -45,3 +45,6 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-run-and-manage-switch-
 
 https://github.com/aws-samples/amazon-sagemaker-studio-audit
 
+## sagemaker catalog
+
+https://github.com/aws-samples/aws-service-catalog-sagemaker-studio-domain
