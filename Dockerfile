@@ -2,11 +2,10 @@ FROM python:3.7
 
 #####################
 # OVERVIEW
-# 1. Creates the `sagemaker-user` user with UID/GID 1000/100
-# 2. Ensures this user can `sudo` by default and compatible distributions
-# 3. Installs flowty, or_datasets etc. using pip
-# 4. Configures the kernel
-# 5. Make the default shell `bash`. This enhances the experience inside a Jupyter terminal as otherwise Jupyter defaults to `sh`
+# 1. Criando o `sagemaker-user` user with UID/GID 1000/100
+# 2. Definindo `sudo` como default para as instalacoes serem compativeis
+# 3. update pip
+# 4. Configurando kernel
 #####################
 
 ARG NB_USER="sagemaker-user"
