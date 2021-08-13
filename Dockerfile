@@ -4,7 +4,7 @@ FROM python:3.7
 # OVERVIEW
 # 1. Criando o `sagemaker-user` user with UID/GID 1000/100
 # 2. Definindo `sudo` como default para as instalacoes serem compativeis
-# 3. update pip
+# 3. atualizando pip
 # 4. Configurando kernel
 #####################
 
