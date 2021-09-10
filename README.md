@@ -52,3 +52,7 @@ https://github.com/aws-samples/aws-service-catalog-sagemaker-studio-domain
 ## dockerfile sagemaker
 
 https://github.com/flowty/flowty-sagemaker-studio
+
+
+https://medium.com/swlh/shutting-down-amazon-sagemaker-studio-kernelgateways-automatically-with-aws-lambda-41e93afef06b
+
