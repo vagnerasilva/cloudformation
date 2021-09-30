@@ -31,6 +31,10 @@ RUN \
     gmodule-2.0 sudo && \
     rm -rf /var/lib/apt/lists/*
 
+## criando path
+RUN mkdir -p /sagemaker/sagmaker-user/.pip
+
+COPY ./pip.conf  /sagemaker/sagmaker-user/.pip/pip.conf
 
 # Update Python with the required packages
 RUN pip install --upgrade pip
