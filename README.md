@@ -56,3 +56,8 @@ https://github.com/flowty/flowty-sagemaker-studio
 
 https://medium.com/swlh/shutting-down-amazon-sagemaker-studio-kernelgateways-automatically-with-aws-lambda-41e93afef06b
 
+
+# Sagemaker studio para empresa!!
+## Etapas e considerações ao implantar o Studio em uma empresa
+https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe
+
