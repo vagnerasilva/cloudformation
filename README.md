@@ -61,3 +61,7 @@ https://medium.com/swlh/shutting-down-amazon-sagemaker-studio-kernelgateways-aut
 ## Etapas e considerações ao implantar o Studio em uma empresa
 https://towardsdatascience.com/industrializing-an-ml-platform-with-amazon-sagemaker-studio-91b597802afe
 
+
+
+### analyzer
+https://gabrielpulga.medium.com/aws-iam-utilizando-o-access-analyzer-para-gerar-policies-com-o-princ%C3%ADpio-de-menor-privil%C3%A9gio-4aec24d6a2e8
